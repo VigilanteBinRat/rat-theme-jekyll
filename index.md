@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# rat-theme
+
+**rat-theme** is a theme for rats, rats are cool
